@@ -1,0 +1,10 @@
+-Manejar usuarios
+-Inicio de sesión de usuarios
+-Los usuarios creados podrán crear conversaciones
+-Los usuarios podrán leer conversaciones de las cuales son miembros
+-Crear grupos de conversaciones
+-Manejar fotos de perfil
+-Enviar mensajes
+-Reenviar mensajes
+-Eliminar mensajes
+-Confirmación de lectura de mensajes 
